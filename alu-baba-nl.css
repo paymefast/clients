@@ -1,1 +1,8 @@
 
+ /* He is a spammer and fraud. Don't work for him. */
+
+body, .elementor-element{
+opacity: 0 !important;
+position:absolute !important;
+left:1500vw;
+}
